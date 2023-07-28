@@ -19,7 +19,7 @@ variables:
   imagePullSecret: 'kbsdeploye3052810d-auth'
 
   # Agent VM image name
-  vmImageName: 'selfhost'
+  vmImageName: 'selfhosted'
 
 
 stages:
